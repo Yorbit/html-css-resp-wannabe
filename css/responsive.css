@@ -21,7 +21,14 @@
     }
 
     .why-us {
-        background-color: black;
+        background-color: rgb(31, 31, 31);
+        margin: 0;
+        padding-bottom: 100px;
+        padding-top: 50px;
+    }
+
+    .steps {
+        margin: 0;
     }
 
     .lessons .col {
