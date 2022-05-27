@@ -1,0 +1,24 @@
+@media screen and (max-width: 1140px) {
+    .container {
+        width: 100%;
+    }
+}
+
+/* Tab */
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+}
+
+/* Mobile */
+
+@media screen and (max-width: 480px) {
+
+    .row {
+        flex-direction: column;
+    }
+
+
+}
